@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itzabdul
 - 👀 I’m interested in ... 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me abdulr6503@gmail.com
 
